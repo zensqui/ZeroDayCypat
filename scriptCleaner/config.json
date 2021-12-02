@@ -1,0 +1,13 @@
+{
+	"comments": true,
+	"duplicates": true,
+	"keys": true,
+	"newLines": true,
+
+	"ignorePatterns": [
+        "comments keeps comments and echos",
+        "duplicates removes duplicate commands",
+        "keys removes duplicate registry key assignments",
+        "remove extra new lines"
+    ]
+}

@@ -1,7 +1,7 @@
 @echo off
 
 color 0a
-::------------------------------------- Check for permissions
+
 echo Checking if script contains Administrative rights...
 net sessions
 if %errorlevel%==0 (

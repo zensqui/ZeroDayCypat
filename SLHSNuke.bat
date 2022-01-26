@@ -1,7 +1,6 @@
 @echo off
 
 color 0a
-::SebbySocks
 ::------------------------------------- Check for permissions
 echo Checking if script contains Administrative rights...
 net sessions
